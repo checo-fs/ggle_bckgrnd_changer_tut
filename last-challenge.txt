@@ -5,3 +5,5 @@ Uncaught (in promise) Error: Cannot access a chrome:// URL
 
 Last attempt to solve:
 reading this stackover flow https://stackoverflow.com/questions/24600495/chrome-tabs-executescript-cannot-access-a-chrome-url
+
+need to create branches to try different solutions
