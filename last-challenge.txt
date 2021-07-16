@@ -1,0 +1,7 @@
+Trying to solve error given in chrome://extensions
+
+The error is:
+Uncaught (in promise) Error: Cannot access a chrome:// URL
+
+Last attempt to solve:
+reading this stackover flow https://stackoverflow.com/questions/24600495/chrome-tabs-executescript-cannot-access-a-chrome-url
